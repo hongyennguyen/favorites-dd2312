@@ -1,0 +1,45 @@
+body {
+    background-image: url(assets/strawberry-background.png);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 50px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
+
+ol, li {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: brown;
+}
+
+h1, h2 {
+    color: purple;
+}
+
+.strawberry {
+    max-width: 300px;
+    border: 10px solid #ffffff;
+    border-radius: 5px;
+    padding: 0px;
+}
+
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(255, 0, 144, 0.5);
+  }
+
+.puppy {
+    max-width: 300px;
+    border: 10px solid #ffffff;
+    border-radius: 5px;
+    padding: 0px;
+}
+
+.pinkcloud {
+    margin-left: 50%;
+    max-width: 300px;
+    z-index: -1;
+}
+
+.happycloud {
+    z-index: -1;
+}
